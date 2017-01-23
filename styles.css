@@ -1,0 +1,38 @@
+main {
+font-family: Georgia, serif;
+}
+
+body {
+background-color: powderblue;
+margin: 40px;
+}
+
+h1{
+font-weight: bold;
+font-family: cursive; fantasy;
+}
+
+img {
+border: solid 5px;
+border-radius: 30px;
+margin: 15px 30px 15px 30px;
+}
+
+img.Grad {
+    float: left;
+}
+
+img.Home {
+    float: right;
+}
+}
+p {
+    margin: 40px;
+    padding: 90px;
+}
+
+footer {
+    position: static;
+    bottom: 3px;
+    font-size: .8em;
+}
